@@ -4,7 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/PassthroughHands.unity
+    guid: c94e480e4a6da614693c0cd3372e2d2d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0bb4edb4e406a5b40accafe65289175b, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7e23f4836bda161478c92ffb5cdc66c7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 443da25b64e616b40a388cb060f619b0, type: 2}
